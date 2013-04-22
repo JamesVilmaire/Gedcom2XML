@@ -1,0 +1,9 @@
+c:\users\riptide\documents\visual studio 2010\Projects\Gedcom2XML\Gedcom2XML\bin\Debug\Gedcom2XML.exe
+c:\users\riptide\documents\visual studio 2010\Projects\Gedcom2XML\Gedcom2XML\bin\Debug\Gedcom2XML.pdb
+c:\users\riptide\documents\visual studio 2010\Projects\Gedcom2XML\Gedcom2XML\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\riptide\documents\visual studio 2010\Projects\Gedcom2XML\Gedcom2XML\obj\x86\Debug\Gedcom2XML.frmG2X_GUI.resources
+c:\users\riptide\documents\visual studio 2010\Projects\Gedcom2XML\Gedcom2XML\obj\x86\Debug\Gedcom2XML.Properties.Resources.resources
+c:\users\riptide\documents\visual studio 2010\Projects\Gedcom2XML\Gedcom2XML\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\riptide\documents\visual studio 2010\Projects\Gedcom2XML\Gedcom2XML\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\riptide\documents\visual studio 2010\Projects\Gedcom2XML\Gedcom2XML\obj\x86\Debug\Gedcom2XML.exe
+c:\users\riptide\documents\visual studio 2010\Projects\Gedcom2XML\Gedcom2XML\obj\x86\Debug\Gedcom2XML.pdb

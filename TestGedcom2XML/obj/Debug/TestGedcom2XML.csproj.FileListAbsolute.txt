@@ -1,0 +1,7 @@
+C:\Users\RipTide\documents\visual studio 2010\Projects\Gedcom2XML\TestGedcom2XML\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RipTide\documents\visual studio 2010\Projects\Gedcom2XML\TestGedcom2XML\bin\Debug\TestGedcom2XML.dll
+C:\Users\RipTide\documents\visual studio 2010\Projects\Gedcom2XML\TestGedcom2XML\bin\Debug\TestGedcom2XML.pdb
+C:\Users\RipTide\documents\visual studio 2010\Projects\Gedcom2XML\TestGedcom2XML\bin\Debug\Gedcom2XML.exe
+C:\Users\RipTide\documents\visual studio 2010\Projects\Gedcom2XML\TestGedcom2XML\bin\Debug\Gedcom2XML.pdb
+C:\Users\RipTide\documents\visual studio 2010\Projects\Gedcom2XML\TestGedcom2XML\obj\Debug\TestGedcom2XML.dll
+C:\Users\RipTide\documents\visual studio 2010\Projects\Gedcom2XML\TestGedcom2XML\obj\Debug\TestGedcom2XML.pdb

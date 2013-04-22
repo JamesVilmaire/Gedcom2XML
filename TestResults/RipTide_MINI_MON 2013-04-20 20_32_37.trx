@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="e0be4965-17e5-4aa9-afc2-a2ff112492e3" name="RipTide@MINI_MON 2013-04-20 20:32:37" runUser="Mini_Mon\RipTide" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="231c1cf3-d262-4d1a-9015-89c9a85aec24">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="RipTide_MINI_MON 2013-04-20 20_32_37">
+      <DeploymentItem filename="C:\Users\RipTide\documents\visual studio 2010\Projects\Gedcom2XML\Gedcom2XML\bin\Debug\Gedcom2XML.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-04-20T20:32:37.1764441-04:00" queuing="2013-04-20T20:32:38.1144977-04:00" start="2013-04-20T20:32:38.1865019-04:00" finish="2013-04-20T20:32:39.5545801-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="4" executed="4" passed="4" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="saveDocTest" storage="c:\users\riptide\documents\visual studio 2010\projects\gedcom2xml\testgedcom2xml\bin\debug\testgedcom2xml.dll" id="3ae965ff-fd4d-1759-a668-1e7ea8a00a47">
+      <Execution id="3abed8c2-b871-4cf6-91ae-349e5ec2b488" />
+      <TestMethod codeBase="C:/Users/RipTide/documents/visual studio 2010/Projects/Gedcom2XML/TestGedcom2XML/bin/Debug/TestGedcom2XML.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestGedcom2XML.Gedcom2XMLParserTest, TestGedcom2XML, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="saveDocTest" />
+    </UnitTest>
+    <UnitTest name="loadGedcomDataTest" storage="c:\users\riptide\documents\visual studio 2010\projects\gedcom2xml\testgedcom2xml\bin\debug\testgedcom2xml.dll" id="09548468-afb5-44f8-44f7-5486102eb6aa">
+      <Execution id="bb3e0120-8f27-4fd6-9d94-efe4ac0cc901" />
+      <TestMethod codeBase="C:/Users/RipTide/documents/visual studio 2010/Projects/Gedcom2XML/TestGedcom2XML/bin/Debug/TestGedcom2XML.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestGedcom2XML.Gedcom2XMLParserTest, TestGedcom2XML, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="loadGedcomDataTest" />
+    </UnitTest>
+    <UnitTest name="Gedcom2XMLParserConstructorTest" storage="c:\users\riptide\documents\visual studio 2010\projects\gedcom2xml\testgedcom2xml\bin\debug\testgedcom2xml.dll" id="7fba691c-430c-6e95-8a79-110cc037e113">
+      <Execution id="3d693bc4-c441-46a1-8644-43dca6f43772" />
+      <TestMethod codeBase="C:/Users/RipTide/documents/visual studio 2010/Projects/Gedcom2XML/TestGedcom2XML/bin/Debug/TestGedcom2XML.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestGedcom2XML.Gedcom2XMLParserTest, TestGedcom2XML, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Gedcom2XMLParserConstructorTest" />
+    </UnitTest>
+    <UnitTest name="processGedcomDataToXMLTest" storage="c:\users\riptide\documents\visual studio 2010\projects\gedcom2xml\testgedcom2xml\bin\debug\testgedcom2xml.dll" id="63553e4d-9fb6-36d8-d3a1-4fbb4f2afaab">
+      <Execution id="3958a644-bd6e-4db2-a56b-d430f609af8d" />
+      <TestMethod codeBase="C:/Users/RipTide/documents/visual studio 2010/Projects/Gedcom2XML/TestGedcom2XML/bin/Debug/TestGedcom2XML.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestGedcom2XML.Gedcom2XMLParserTest, TestGedcom2XML, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="processGedcomDataToXMLTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="7fba691c-430c-6e95-8a79-110cc037e113" executionId="3d693bc4-c441-46a1-8644-43dca6f43772" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="09548468-afb5-44f8-44f7-5486102eb6aa" executionId="bb3e0120-8f27-4fd6-9d94-efe4ac0cc901" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="63553e4d-9fb6-36d8-d3a1-4fbb4f2afaab" executionId="3958a644-bd6e-4db2-a56b-d430f609af8d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3ae965ff-fd4d-1759-a668-1e7ea8a00a47" executionId="3abed8c2-b871-4cf6-91ae-349e5ec2b488" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="3d693bc4-c441-46a1-8644-43dca6f43772" testId="7fba691c-430c-6e95-8a79-110cc037e113" testName="Gedcom2XMLParserConstructorTest" computerName="MINI_MON" duration="00:00:00.0207643" startTime="2013-04-20T20:32:38.2305044-04:00" endTime="2013-04-20T20:32:39.2595632-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3d693bc4-c441-46a1-8644-43dca6f43772">
+    </UnitTestResult>
+    <UnitTestResult executionId="bb3e0120-8f27-4fd6-9d94-efe4ac0cc901" testId="09548468-afb5-44f8-44f7-5486102eb6aa" testName="loadGedcomDataTest" computerName="MINI_MON" duration="00:00:00.0099848" startTime="2013-04-20T20:32:39.2645635-04:00" endTime="2013-04-20T20:32:39.2815645-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bb3e0120-8f27-4fd6-9d94-efe4ac0cc901">
+    </UnitTestResult>
+    <UnitTestResult executionId="3958a644-bd6e-4db2-a56b-d430f609af8d" testId="63553e4d-9fb6-36d8-d3a1-4fbb4f2afaab" testName="processGedcomDataToXMLTest" computerName="MINI_MON" duration="00:00:00.0751231" startTime="2013-04-20T20:32:39.3075660-04:00" endTime="2013-04-20T20:32:39.3895707-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3958a644-bd6e-4db2-a56b-d430f609af8d">
+    </UnitTestResult>
+    <UnitTestResult executionId="3abed8c2-b871-4cf6-91ae-349e5ec2b488" testId="3ae965ff-fd4d-1759-a668-1e7ea8a00a47" testName="saveDocTest" computerName="MINI_MON" duration="00:00:00.0812757" startTime="2013-04-20T20:32:39.3995712-04:00" endTime="2013-04-20T20:32:39.4885763-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3abed8c2-b871-4cf6-91ae-349e5ec2b488">
+    </UnitTestResult>
+  </Results>
+</TestRun>
